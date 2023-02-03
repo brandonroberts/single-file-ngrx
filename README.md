@@ -1,4 +1,8 @@
-# Analog App
+# Single File NgRx
+
+Video: [https://youtu.be/KjpzdzH7-Lg](https://youtu.be/KjpzdzH7-Lg)
+
+## Analog
 
 This project was generated with [Analog](https://analogjs.org), the fullstack meta-framework for Angular.
 
